@@ -11,3 +11,5 @@ def log_array_pair(array)
 end
 
 log_array_pair(boxes)
+
+# O(n^2)
